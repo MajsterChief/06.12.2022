@@ -1,0 +1,22 @@
+table
+{
+    border: 2px green solid;
+    text-align: center;
+    
+}
+td{
+    border: 2px yellowgreen solid;
+    background-color: wheat;
+}
+#qw
+{
+    background-color: tomato;
+
+}
+#nw
+{
+    background-color: thistle;
+}
+h1{
+    font-size: 2cm;
+}
